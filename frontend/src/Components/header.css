@@ -1,0 +1,38 @@
+/* header.css */
+
+/* Navbar container */
+.navbar {
+    background-color: #411D19;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  /* Navbar brand */
+  .navbar-brand {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler{
+    background-color: #b68801;
+
+  }
+
+  /* Navbar links */
+  .navbar-nav {
+    margin-left: auto;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ccc;
+  }
+  
